@@ -124,6 +124,6 @@ Contributions are welcome! To contribute:
 ---
 
 ## Contact
-- **GitHub Profile:** [TensoRag](https://github.com/TensoRag)
-- **Email:** denistanb05@gmail.com
+- **GitHub:** [TensoRag](https://github.com/TensoRag)
+- **Email :** denistanb05@gmail.com
 
