@@ -5,20 +5,27 @@ This project addresses the classic Titanic dataset challenge, aiming to predict 
 
 ---
 
-## Problem Statement
-The sinking of the RMS Titanic in 1912 is one of the most infamous shipwrecks in history. The goal of this project is to build a predictive model that determines whether a passenger survived the disaster, based on features such as age, sex, ticket class, and more. This problem is a binary classification task and serves as a popular introduction to machine learning and data science.
+## Project Details
+### Problem Statement
+The objective is to build a machine learning model that predicts which passengers survived the Titanic tragedy based on features such as age, sex, and class.
 
----
+### Data Exploration
+- Assessed data quality and missing values
+- Explored the impact of features like Age, Sex, and Embarked on survival
+- Visualized distributions of categorical and numerical variables
 
-## Features
-- **End-to-End Data Science Workflow:** Includes all steps from raw data to final predictions.
-- **Comprehensive EDA:** Visual and statistical exploration of the dataset to uncover patterns and relationships.
-- **Data Cleaning:** Handling missing values, removing irrelevant features, and preparing data for modeling.
-- **Feature Engineering:** Creating new features and encoding categorical variables to improve model performance.
-- **Multiple Model Training:** Implementation and comparison of Linear Regression, Logistic Regression, and Random Forest Classifier.
-- **Model Evaluation:** Assessment using accuracy, precision, recall, F1-score, and confusion matrix.
-- **Visualization:** Clear plots and charts to illustrate key findings and model results.
-- **Reproducible Notebook:** All code and analysis are contained in a single, well-documented Jupyter Notebook.
+### Data Cleaning
+- Removed irrelevant columns (Cabin, Name, Ticket)
+- Filled missing values (numerical: median, categorical: most frequent)
+- Encoded categorical variables numerically
+
+### Model Training
+- Trained and evaluated three models:
+  1. Linear Regression
+  2. Logistic Regression
+  3. Random Forest Classifier
+- Converted prediction probabilities to binary survival outcomes
+- Saved predictions for each model
 
 ---
 
