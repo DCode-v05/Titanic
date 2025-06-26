@@ -1,4 +1,4 @@
-# 🚢 Titanic - Machine Learning from Disaster
+# Titanic - Machine Learning from Disaster
 
 ## Project Description
 This project addresses the classic Titanic dataset challenge, aiming to predict passenger survival using a variety of machine learning techniques. The workflow covers the entire data science pipeline: from data acquisition and exploratory data analysis (EDA), through data cleaning and feature engineering, to model selection, training, evaluation, and interpretation. The project is inspired by the Kaggle competition "Titanic: Machine Learning from Disaster" and is designed as a comprehensive, educational example for beginners and intermediate data scientists.
