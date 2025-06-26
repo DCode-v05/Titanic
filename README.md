@@ -104,14 +104,22 @@ Titanic/
 ---
 
 ## Contributing
-We welcome contributions from the community! To contribute:
-1. **Fork the repository** on GitHub.
-2. **Create a new branch** for your feature or bugfix.
-3. **Commit your changes** with clear messages.
-4. **Push to your fork** and submit a pull request.
-5. **Describe your changes** in detail in the pull request.
 
-If you have suggestions for improvements, new features, or find any bugs, please open an issue or submit a pull request.
+Contributions are welcome! To contribute:
+1. Fork the repository
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your feature"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature/your-feature
+   ```
+5. Open a pull request describing your changes.
 
 ---
 
