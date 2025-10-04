@@ -46,7 +46,7 @@ The objective is to build a machine learning model that predicts which passenger
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/TensoRag/Titanic.git
+git clone https://github.com/DCode-v05/Titanic.git
 cd Titanic
 ```
 
@@ -124,6 +124,6 @@ Contributions are welcome! To contribute:
 ---
 
 ## Contact
-- **GitHub:** [TensoRag](https://github.com/TensoRag)
+- **GitHub:** [DCode-v05](https://github.com/DCode-v05)
 - **Email :** denistanb05@gmail.com
 
